@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/terminal-16.svg" width=16 />Vim Plugin 
+### <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 />Vim Plugin 
 
 |||
 |---|---|
