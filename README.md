@@ -1,7 +1,14 @@
-<div align="centor">
+<p align="center">
+  <b>⌘ Vimmer ⌘</b>
+</p>
+
+<div align="center">
   <img alt="Vim" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=32 />
 </div>
+
 <br/>
 
-[nyancat.vim](https://github.com/kato-k/nyancat.vim) : Run nyancat🐈 on your Vim.
-
+<p align="center">
+  <a href="https://github.com/kato-k/nyancat.vim">nyancat.vim</a>: Run nyancat🐈 on your Vim.
+</p/
+<br/>
