@@ -4,8 +4,3 @@
 
 [nyancat.vim](https://github.com/kato-k/nyancat.vim) : Run nyancat🐈 on your Vim.
 
-
-
-<div align="centor">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kato-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
