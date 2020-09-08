@@ -1,5 +1,5 @@
 <div align="center">
-  Hi, I'm Kato <br><br>
+  Hi <br><br>
   ▼‾▼‾▼‾▼‾▼  <img alt="Vim" src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=32 />  ▼‾▼‾▼‾▼‾▼
 </div>
 
