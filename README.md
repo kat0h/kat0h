@@ -3,6 +3,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kato-k/nyancat.vim">nyancat.vim</a> : Run nyancat🐈 on your Vim.
+  <a href="https://github.com/kato-k/nyancat.vim">nyancat.vim</a> : Run Nyancat🐈 on your Vim.
 </p/
 <br/>
