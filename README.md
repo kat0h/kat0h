@@ -13,6 +13,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kato-k/clipod">CLIPod</a> : A podcast manager (not yet available).
+  <a href="https://github.com/kato-k/clipod">CLIPod</a> : a podcast manager (not yet available).
+</p/
+<br/>
+
+<div align="center">
+  ▼‾▼‾▼‾▼‾▼  <img alt="VueJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" width=32 />  ▼‾▼‾▼‾▼‾▼
+</div>
+
+<p align="center">
+  <a href="https://github.com/kato-k/hato-web">HatoWeb</a> : a web site for the hato festival.
 </p/
 <br/>
