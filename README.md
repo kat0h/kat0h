@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/kato-k/nyancat.vim">nyancat.vim</a> : Run Nyancat🐈 on your Vim.
-</p/
+</p>
 <br/>
 
 <div align="center">
@@ -14,14 +14,15 @@
 
 <p align="center">
   <a href="https://github.com/kato-k/clipod">CLIPod</a> : a podcast manager (not yet available).
-</p/
+</p>
 <br/>
 
 <div align="center">
-  ▼‾▼‾▼‾▼‾▼  <img alt="VueJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" width=32 />  ▼‾▼‾▼‾▼‾▼
+  ▼‾▼‾▼‾▼‾▼  <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width=32 />  ▼‾▼‾▼‾▼‾▼
 </div>
 
 <p align="center">
   <a href="https://github.com/kato-k/hato-web">HatoWeb</a> : a web site for the hato festival.
-</p/
+  <a href="https://github.com/kato-k/pcclubweb">pcclubweb</a> : a web site for the pc club.
+</p>
 <br/>
