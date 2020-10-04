@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kato-k/hato-web">HatoWeb</a> : a web site for the hato festival.<\br>
+  <a href="https://github.com/kato-k/hato-web">HatoWeb</a> : a web site for the hato festival.<br/>
   <a href="https://github.com/kato-k/pcclubweb">pcclubweb</a> : a web site for the pc club.
 </p>
 <br/>
