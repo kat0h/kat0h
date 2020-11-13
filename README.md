@@ -5,6 +5,6 @@
 
  <p align="center">
    <a href="https://github.com/kato-k/nyancat.vim">nyancat.vim</a> : Run Nyancat🐈 on your Vim.<br/>
-   <a href="https://github.com/kato-k/vim-colorscheme-settings">colorscheme swicher🎨</a> : colorscheme switcher.
+   <a href="https://github.com/kato-k/vim-colorscheme-settings">colorscheme swicher</a> : colorscheme switcher🎨.
  </p>
  <br/>
