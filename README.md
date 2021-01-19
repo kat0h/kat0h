@@ -1,4 +1,4 @@
-My Repositories ! </br>
+✨ My Repositories ✨ </br>
 |||
 |---|---|
 |https://github.com/kato-k/nyancat.vim|Run nyancat on your vim|
