@@ -13,6 +13,8 @@ Vim
   - Auto color switcher for darkmode of macOS
 - https://github.com/kato-k/radiru.vim
   - listen Radiru-Radiru (Japanese internet radio provided by NHK)
+- https://github.com/kato-k/vim-sl
+  - SL command on Vim
 
 Shell
 - https://github.com/kato-k/github-grass-cli
