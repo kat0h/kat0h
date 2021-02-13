@@ -19,3 +19,5 @@ Vim
 Shell
 - https://github.com/kato-k/github-grass-cli
   - See your github activities on a terminal
+
+[![](https://github-readme-stats.vercel.app/api?username=kato-k)](https://github.com/anuraghazra/github-readme-stats)
