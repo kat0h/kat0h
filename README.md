@@ -14,11 +14,11 @@ Vim
 - https://github.com/kato-k/radiru.vim
   - listen Radiru-Radiru (Japanese internet radio provided by NHK)
 - https://github.com/kato-k/vim-sl
-  - SL command on Vim
+  - SL command on Vim(WIP)
 
 Shell
 - https://github.com/kato-k/github-grass-cli
-  - See your github activities on a terminal
+  - See your github activities on a terminal(WIP)
 - https://github.com/kato-k/parroteye
   - A joke application inspired from xeyes
 
