@@ -15,6 +15,8 @@ Vim
   - listen Radiru-Radiru (Japanese internet radio provided by NHK)
 - https://github.com/kato-k/vim-sl
   - SL command on Vim(WIP)
+- https://github.com/kato-k/Artify.vim9
+  - artify.vim - 150x faster
 
 Shell
 - https://github.com/kato-k/github-grass-cli
