@@ -24,4 +24,7 @@ Shell
 - 🦜 https://github.com/kato-k/parroteye
   - A joke application inspired from xeyes
 
+Articles
+- 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
+
 [![](https://github-readme-stats.vercel.app/api?username=kato-k)](https://github.com/anuraghazra/github-readme-stats)
