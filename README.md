@@ -18,11 +18,19 @@ Vim
 - 🔠 https://github.com/kato-k/Artify.vim9
   - artify.vim - 150x faster
 
-Shell
+Toy
 - 🌲 https://github.com/kato-k/github-grass-cli
   - See your github activities on a terminal(WIP)
 - 🦜 https://github.com/kato-k/parroteye
   - A joke application inspired from xeyes
+- 🎞 https://github.com/kato-k/file2img
+  - Convert a file to an image
+- 🇯🇵 https://github.com/kato-k/AyashiiNihongoGenCLI
+  - Ayashii Nihongo generator written in Python
+- 💕 https://github.com/kato-k/mariage
+  - Convert images to ASCII art written in Braille
+- 🧫 https://github.com/kato-k/THE-GAME-OF-LIFE
+  - Life game
 
 Articles
 - 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
