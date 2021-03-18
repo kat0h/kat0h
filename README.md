@@ -31,6 +31,8 @@ Toy
   - Convert images to ASCII art written in Braille
 - 🧫 https://github.com/kato-k/THE-GAME-OF-LIFE
   - Life game
+- 🐠 https://kuragetool.github.io/
+  - Webで動くツール
 
 Articles
 - 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
