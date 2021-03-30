@@ -16,7 +16,7 @@ Vim
 - 🚂 https://github.com/kato-k/vim-sl
   - SL command on Vim(WIP)
 - 🔠 https://github.com/kato-k/Artify.vim9
-  - artify.vim - 150x faster
+  - artify.vim - written in vim9 script
 
 Toy
 - 🌲 https://github.com/kato-k/github-grass-cli
