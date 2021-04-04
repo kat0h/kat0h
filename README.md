@@ -37,5 +37,6 @@ Toy
 Articles
 - 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
 - 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
+- 📝 [Gist](https://gist.github.com/mine)
 
 [![](https://github-readme-stats.vercel.app/api?username=kato-k)](https://github.com/anuraghazra/github-readme-stats)
