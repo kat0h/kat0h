@@ -53,4 +53,7 @@ Articles
 - 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
 - 📝 [Gist](https://gist.github.com/mine)
 
+Translate
+- 📔 Notally
+
 [![](https://github-readme-stats.vercel.app/api?username=kato-k)](https://github.com/anuraghazra/github-readme-stats)
