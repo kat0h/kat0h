@@ -18,6 +18,13 @@ c+=j=="1"?1:0;};o=o<<10};o[-7,6
 ]=""<<39<<".join";puts(o)'.join
 ```
 
+
+Articles
+- 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
+- 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
+- 📝 [Gist](https://gist.github.com/mine)
+-  [Blog](https://kato-k.github.io)
+
 Vim
 - 📻 https://github.com/kato-k/radiru.vim
   - listen Radiru-Radiru (Japanese internet radio provided by NHK)
@@ -35,11 +42,6 @@ Vim
 Toy
 - 🐠 https://kuragetool.github.io/
   - Webで動くツール
-
-Articles
-- 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
-- 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
-- 📝 [Gist](https://gist.github.com/mine)
 
 Translate (Contribute)
 - 📔 Notally
