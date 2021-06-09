@@ -37,7 +37,6 @@ Vim
 
 Toy
 - 🐠 https://kuragetool.github.io/
-  - Webで動くツール
 
 Contribute
 
