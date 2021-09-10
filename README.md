@@ -1,17 +1,17 @@
 Articles
 - 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
 - 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
-- 📝 [Gist](https://gist.github.com/mine)
-- 🖋 [Blog](https://kato-k.github.io)
+- 📝 [Gist](https://gist.github.com/kat0h)
+- 🖋 [Blog](https://kat0h.github.io)
 
 Vim
-- 📻 https://github.com/kato-k/radiru.vim
+- 📻 https://github.com/kat0h/radiru.vim
   - listen Radiru-Radiru (Japanese internet radio provided by NHK)
-- 😻 https://github.com/kato-k/nyancat.vim 
+- 😻 https://github.com/kat0h/nyancat.vim 
   - Run nyancat on your vim
-- 🏙 https://github.com/kato-k/vim-auto-color-switcher
+- 🏙 https://github.com/kat0h/vim-auto-color-switcher
   - Auto color switcher for darkmode of macOS
-- 🔠 https://github.com/kato-k/Artify.vim9
+- 🔠 https://github.com/kat0h/Artify.vim9
   - artify.vim - written in vim9 script
 
 Toy
