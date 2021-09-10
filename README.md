@@ -23,4 +23,4 @@ Contribute
 ⏳ [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ・ 
 🗒[slacklog-generator](https://github.com/vim-jp/slacklog-generator) 
 
-[![](https://github-readme-stats.vercel.app/api?username=kato-k)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=kat0h)](https://github.com/anuraghazra/github-readme-stats)
