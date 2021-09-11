@@ -13,6 +13,8 @@ Vim
   - Auto color switcher for darkmode of macOS
 - 🔠 https://github.com/kat0h/Artify.vim9
   - artify.vim - written in vim9 script
+- 📁 https://github.com/kat0h/dps-file.vim
+  - a clone of vim-molder (file explorer) based on denops
 
 Toy
 - 🐠 https://kuragetool.github.io/
