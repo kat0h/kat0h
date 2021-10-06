@@ -15,6 +15,8 @@ Vim
   - artify.vim - written in vim9 script
 - 📁 https://github.com/kat0h/dps-file.vim
   - a clone of vim-molder (file explorer) based on denops
+- ⬇️ https://github.com/kat0h/bufpreview.vim
+  - a markdown previewer
 
 Toy
 - 🐠 https://kuragetool.github.io/
