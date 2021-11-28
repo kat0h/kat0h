@@ -2,7 +2,8 @@ Articles
 - 9️⃣ [Vim9script for Python Developers](https://zenn.dev/kato_k/articles/4585f83764f38b) 
 - 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
 - 📝 [Gist](https://gist.github.com/kat0h)
-<!-- - 🖋 [Blog](https://kat0h.github.io) -->
+- 🗃 [ScrapBox](https://scrapbox.io/kat0h/)
+- 🖋 [Blog](https://kat0h.github.io)
 
 Vim
 - 📻 https://github.com/kat0h/radiru.vim
