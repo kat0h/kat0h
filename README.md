@@ -3,7 +3,7 @@ Articles
 - 🍵 [Vim Tips (Zenn)](https://zenn.dev/topics/vimtips)
 - 📝 [Gist](https://gist.github.com/kat0h)
 - 🗃 [ScrapBox](https://scrapbox.io/kat0h/)
-- 🖋 [Blog](https://kat0h.github.io)
+- 🖋 [Blog](https://blog.kat0h.com)
 
 Vim
 - 📻 https://github.com/kat0h/radiru.vim
