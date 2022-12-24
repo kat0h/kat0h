@@ -6,26 +6,19 @@ Articles
 - 🖋 [Blog](https://blog.kat0h.com)
 
 Vim
-- 📻 https://github.com/kat0h/radiru.vim
-  - listen Radiru-Radiru (Japanese internet radio provided by NHK)
-- 😻 https://github.com/kat0h/nyancat.vim 
-  - Run nyancat on your vim
+
 - 🏙 https://github.com/kat0h/vim-auto-color-switcher
   - Auto color switcher for darkmode of macOS
-- 🔠 https://github.com/kat0h/Artify.vim9
-  - artify.vim - written in vim9 script
 - 📁 https://github.com/kat0h/dps-file.vim
   - a clone of vim-molder (file explorer) based on denops
 - ⬇️ https://github.com/kat0h/bufpreview.vim
   - a markdown previewer
-
-Toy
-- 🐠 https://kuragetool.github.io/
 
 Contribute
 
 📔 [Notally](https://github.com/OmGodse/Notally) ・ 
 ⏳ [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ・ 
 🗒[slacklog-generator](https://github.com/vim-jp/slacklog-generator) 
+Vim Editor
 
 [![](https://github-readme-stats.vercel.app/api?username=kat0h)](https://github.com/anuraghazra/github-readme-stats)
