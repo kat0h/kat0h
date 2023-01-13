@@ -17,11 +17,5 @@ Vim
 - ⬇️ https://github.com/kat0h/bufpreview.vim
   - a markdown previewer
 
-Contribute
-
-📔 [Notally](https://github.com/OmGodse/Notally) ・ 
-⏳ [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ・ 
-🗒[slacklog-generator](https://github.com/vim-jp/slacklog-generator) 
-Vim Editor
 
 [![](https://github-readme-stats.vercel.app/api?username=kat0h)](https://github.com/anuraghazra/github-readme-stats)
