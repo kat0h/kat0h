@@ -16,6 +16,3 @@ Vim
   - a clone of vim-molder (file explorer) based on denops
 - ⬇️ https://github.com/kat0h/bufpreview.vim
   - a markdown previewer
-
-
-[![](https://github-readme-stats.vercel.app/api?username=kat0h)](https://github.com/anuraghazra/github-readme-stats)
